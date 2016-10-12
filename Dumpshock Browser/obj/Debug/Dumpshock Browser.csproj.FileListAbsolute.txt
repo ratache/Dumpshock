@@ -1,0 +1,16 @@
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\bin\Debug\Dumpshock Browser.exe.config
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\bin\Debug\Dumpshock Browser.exe
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\bin\Debug\Dumpshock Browser.pdb
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\MainWindow.g.cs
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\App.g.cs
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser_MarkupCompile.cache
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser_MarkupCompile.lref
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\MainWindow.baml
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser.g.resources
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock_Browser.Properties.Resources.resources
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser.csproj.GenerateResource.Cache
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser.exe
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser.pdb
+c:\users\armadillo devops\documents\visual studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\Dumpshock Browser.csprojResolveAssemblyReference.cache
+C:\Users\Armadillo Devops\Documents\Visual Studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\DiceWindow.g.cs
+C:\Users\Armadillo Devops\Documents\Visual Studio 2015\Projects\Dumpshock Browser\Dumpshock Browser\obj\Debug\DiceWindow.baml

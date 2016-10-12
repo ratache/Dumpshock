@@ -1,0 +1,31 @@
+﻿<Window x:Class="Dumpshock_Browser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dumpshock_Browser"
+        mc:Ignorable="d"
+        Title="Dumpshock Browser" Topmost="True" WindowStyle="ThreeDBorderWindow" WindowState="Maximized">
+    <Grid OpacityMask="#FFE41010" Background="#FF323942">
+        <Menu Margin="0,0,0,483">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FF366697" Offset="0.261"/>
+                    <GradientStop Color="#FF2E5D85" Offset="0.529"/>
+                    <GradientStop Color="#FF5FA5E0"/>
+                    <GradientStop Color="#FF0C1823" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="_File" Background="{x:Null}">
+                <MenuItem Header="_Exit" Click="mnu_exit_clicked" />
+            </MenuItem>
+            <MenuItem Header="Maps" Width="55">
+                <MenuItem x:Name="mnu_map_subway" Header="Subway" Click="mnu_map_subway_Click"/>
+            </MenuItem>
+            <MenuItem Header="Dices">
+                <MenuItem x:Name="mnu_diceWindow" Header="Dice Calculator" Click="mnu_Dices_DCalc"/>
+            </MenuItem>
+        </Menu>
+        <WebBrowser x:Name="app_browser" HorizontalAlignment="Left" VerticalAlignment="Top" Opacity="0" Margin="0,22,0,0"/>
+    </Grid>
+</Window>
